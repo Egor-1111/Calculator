@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Цвета -->
+    <attr name="colorBackground" format="color" />
+    <attr name="colorOnBackground" format="color" />
+
+    <!-- Иконки верхнего меню -->
+    <attr name="iconScientific" format="reference" />
+    <attr name="iconThemes" format="reference" />
+    <attr name="iconHistory" format="reference" />
+</resources>
