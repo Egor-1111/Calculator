@@ -84,3 +84,8 @@ gradle-app.setting
 .classpath
 .project
 .settings/
+
+
+echo ".idea/" >> .gitignore
+echo "app/google-services.json" >> .gitignore
+echo "*.iml" >> .gitignore
